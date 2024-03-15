@@ -1,6 +1,7 @@
 .idea
 .vscode
 .env
+.env.example
 .test.env
 
 node_modules
